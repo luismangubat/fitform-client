@@ -35,8 +35,10 @@ const useStyles = makeStyles({
     lineHeight: '160px',
     alignItems: 'center',
     fontSize: '45px',
-    color: '#263238',
+    color: '#607D8B',
     borderRadius: '9px',
+    
+
 
   }, 
 
@@ -100,7 +102,9 @@ const useStyles = makeStyles({
     marginRight: '40px',
     bottom: '0',
     marginLeft: '5px',
-    paddingBottom: '10px'
+    paddingBottom: '10px',
+    color: '#607D8B',
+    fontWeight: '600'
   },
   metric: {
     height: '20px',
